@@ -7,6 +7,7 @@
 
 
 ## Details
+- 1st Ever Build
 - Seam Line Removal
   - Tamiya Extra Thin Cement
 - Panel Lining
