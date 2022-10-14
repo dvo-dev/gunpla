@@ -5,7 +5,7 @@
   - [ ] HGUC #31 AMX-107 Bawoo
   - [ ] HGUC #38 GM Cold Districts Type
   - [ ] HGUC #72 GM Striker
-  - [x] HGUC #191 RX-78-2 Revive
+  - [x] [HGUC #191 RX-78-2 Revive](completed_builds/high_grade/hguc-191_RX-78-2_revive.md)
 - HGGTO
   - [ ] HGGTO #09 Zaku I (Denim / Slender)
   - [ ] HGGTO #24 MS-06S Zaku II Principality of Zeon (Red Comet Ver.)
