@@ -1,5 +1,5 @@
 # Backlog
-### High Grade
+## High Grade
 - HGUC
   - [ ] HGUC #20 RGM-79 GM
   - [ ] HGUC #31 AMX-107 Bawoo
@@ -15,5 +15,5 @@
   - [ ] HGIBO #27 Gundam Vidar
   - [ ] HGIBO #44 Schwalbe Custom (Cyclase)
 
-### Real Grade
+## Real Grade
 - [ ] RG #15 Gundam Exia
