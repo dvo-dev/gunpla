@@ -3,6 +3,8 @@
 ![IMG_0155](https://user-images.githubusercontent.com/19921509/195767624-0941d485-fce5-4976-b681-c758e1735dcf.jpg)
 ![IMG_0162](https://user-images.githubusercontent.com/19921509/195767728-3dfd497a-bb2a-49e2-a881-e8731e843871.jpg)
 ![IMG_0157](https://user-images.githubusercontent.com/19921509/195767879-ef6a39c3-05e3-4213-a1ed-35d770531a66.jpg)
+![IMG_0158](https://user-images.githubusercontent.com/19921509/195768119-e1a62d8f-00fb-43a8-a8fd-69142b4cd58e.jpg)
+
 
 ## Details
 - Seam Line Removal
