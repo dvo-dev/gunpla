@@ -11,6 +11,7 @@
   - [ ] HGGTO #24 MS-06S Zaku II Principality of Zeon (Red Comet Ver.)
 - HGAC
   - [ ] HGAC #174 Wing Gundam Zero
+  - [ ] HGAC #211 Leo
 - HGIBO
   - [ ] HGIBO #27 Gundam Vidar
   - [ ] HGIBO #44 Schwalbe Custom (Cyclase)
