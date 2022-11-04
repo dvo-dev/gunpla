@@ -13,6 +13,26 @@
     - Low grit sticks help remove cement residue in tighter areas
 ### Knife
   - [OLFA Precision Knife](https://smile.amazon.com/dp/B0006O87TQ)
+### Airbrushing
+  - [Inwata Eclipse HP-CS Airbrush](https://newtype.us/p/98KrpfRccErOPbngW5k7/h/iwata-eclipse-hp-cs-airbrush)
+  - [Inwata-Medea Universal Airbrush Holder](https://smile.amazon.com/gp/product/B01DYN6GJ8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+  - [Master Airbrush 1/5 HP Cool Runner II Compressor](https://smile.amazon.com/gp/product/B07ZQM6R83/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+  - [Vallejo Airbrush Cleaner](https://houseofhobbies.com/products/7654)
+  - Thinner Solution
+    - 2 Parts [Vallejo Airbrush Thinner](https://houseofhobbies.com/collections/all/products/7653)
+    - 1 Part [Vallejo Airbrush Flow Improver](https://houseofhobbies.com/products/7661) (retarder)
+  - Primers
+    - [Vallejo Mecha Black Primer](https://houseofhobbies.com/products/vallejo-mecha-color-74-642-black-primer-200ml-large-bottle)
+      - 1:1 Primer:Thinner Solution ratio @ 25psi
+  - Paints
+    - [Vallejo Mecha Paints](https://smile.amazon.com/Trumpeter-769990-Mecha-Color-Model-Assembly/dp/B07883YLXS/)
+      - 3:1 Paint:Thinner Solution ratio @ 20psi most colors
+      - 5:1 Paint:Thinner Solution ratio @ 20psi for white + other light colors
+  - Varnishes
+    - [Vallejo Mecha Gloss Varnish](https://houseofhobbies.com/products/7842)
+      - 1:1 Varnish:Thinner Solution ratio @ 25psi
+    - [Vallejo Mecha Matt Varnish](https://houseofhobbies.com/products/7843)
+      - 1:1 Varnish:Thinner Solution ratio @ 25psi
 ### Cleaning
   - [Microfiber Cloths](https://smile.amazon.com/dp/B098D79MQB)
   - [Brushes](https://smile.amazon.com/dp/B074LZ649V)
