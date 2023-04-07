@@ -26,8 +26,8 @@
       - 1:1 Primer:Thinner Solution ratio @ 25psi
   - Paints
     - [Vallejo Mecha Paints](https://smile.amazon.com/Trumpeter-769990-Mecha-Color-Model-Assembly/dp/B07883YLXS/)
-      - 3:1 Paint:Thinner Solution ratio @ 20psi most colors
-      - 4:1 Paint:Thinner Solution ratio @ 20psi for white + yellow
+      - 3:1 Paint:Thinner Solution ratio @ 22psi most colors
+      - 4:1 Paint:Thinner Solution ratio @ 22psi for white + yellow
       - Fluroescent no thinner, just add some flow improver
   - Varnishes
     - [Vallejo Mecha Gloss Varnish](https://houseofhobbies.com/products/7842)
